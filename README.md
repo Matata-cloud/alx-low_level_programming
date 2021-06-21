@@ -1,0 +1,1 @@
+This repo deals with my c code with relation to alx software engineering program tasks.
