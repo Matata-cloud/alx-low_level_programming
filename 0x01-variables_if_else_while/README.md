@@ -1,0 +1,1 @@
+This folder talks about variables, if, else statements and while loops
