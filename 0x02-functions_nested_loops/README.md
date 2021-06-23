@@ -1,0 +1,1 @@
+This project covers functions and nested loops in c programming language
