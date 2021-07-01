@@ -1,0 +1,1 @@
+This project handles basics of pointers, arrays and strings.
