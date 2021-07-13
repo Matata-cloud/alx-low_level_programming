@@ -1,1 +1,1 @@
-Thus project is about c libararies
+This project is about c libraries
