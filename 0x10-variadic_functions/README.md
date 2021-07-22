@@ -1,0 +1,1 @@
+This project of alx  deals with variadic functions.
